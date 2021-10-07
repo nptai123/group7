@@ -12,7 +12,7 @@ Project-title: LaImparial Website
 
 Group members                  Name	                           Student ID
                           Nguyễn Văn Tèo (Team leader)         Student1319917
-                          Nguyễn Ngọc Kim Ngân                 Student1317115 
+                          Nguyễn Ngọc Kim Ngân                 Student1317115
                           Lê Đức Gia Thịnh                     Student1318431       
 
 ============================
