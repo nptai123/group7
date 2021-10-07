@@ -10,11 +10,14 @@ Project-title: LaImparial Website
 
 3 collarborators:
 
+<pre>
+   <code>
 Group members                  Name	                           Student ID
                           Đào Bùi Quang Hưng (Team leader)     Student1319917
                           Nguyễn Ngọc Kim Ngân                 Student1317115 
                           Lê Đức Gia Thịnh                     Student1318431       
-      
+   </code>
+</pre>
 
 ============================
 
