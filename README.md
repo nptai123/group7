@@ -17,7 +17,7 @@ Group members                  Name	                           Student ID
 
 ============================
 
-eProject documentation at: 
+eProject documentation at: https://github.com/nptai123/group7/tree/main/review
 
 ============================
 
