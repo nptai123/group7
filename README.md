@@ -21,7 +21,7 @@ eProject documentation at: https://github.com/nptai123/group7/tree/main/review
 
 ============================
 
-eProject published at: 
+eProject published at: https://nptai123.github.io/group7/
 
 ============================
 
